@@ -8,6 +8,7 @@ import { ConverterComponent } from './converter/converter.component';
 import { AboutComponent } from './about/about.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { ExchangeRatesService } from './services/exchange-rates.service';
 
 
 @NgModule({
@@ -22,6 +23,7 @@ import { HttpClientModule } from '@angular/common/http';
     AppRoutingModule,
     FormsModule,
     HttpClientModule
+    
     
   ],
   providers: [],
