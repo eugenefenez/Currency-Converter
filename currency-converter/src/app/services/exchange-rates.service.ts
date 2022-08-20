@@ -6,7 +6,7 @@ import { ExchangeRatesResponse } from './payloads/exchange-rates-response';
 @Injectable({
   providedIn: 'root'
 })
-export class ExchangeRatesService {
+export class CurrencyExchangeService {
 
   constructor(private http: HttpClient) { }
 

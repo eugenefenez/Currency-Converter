@@ -3,7 +3,7 @@
 
 }
 
-input {
+input, select {
     border: 1px grey solid;
     padding: 3px;
     border-radius: 3px;
@@ -15,7 +15,4 @@ b {
     font-size: 26px;
 }
 
-label {
-    margin: 10px;
-}
 
