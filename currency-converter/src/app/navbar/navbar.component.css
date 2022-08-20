@@ -1,15 +1,25 @@
 header {
-    background-color: #2196f3;
+    background-color: #1c611c;
     padding: 15px;
+   
 
 }
 
 a { 
     color: white;
     text-decoration: none;
-    padding: 15px;
+    padding: 15px;  
+    
 }
 
 a:hover{
-    background-color: #2076c7;
+    background-color: #0d4a1b;
+}
+.logo {
+    max-width: 35px;
+    position: relavtive; 
+   
+}
+.container {
+    margin: 0 auto;
 }

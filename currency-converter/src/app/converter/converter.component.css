@@ -1,6 +1,5 @@
 :host {
     text-align: center;
-
 }
 
 input, select {
@@ -13,6 +12,11 @@ b {
     color: #2196f3;
     margin: 20px;
     font-size: 26px;
+}
+
+.globe {
+    padding-top: 100px;
+    padding-right: 130px;
 }
 
 

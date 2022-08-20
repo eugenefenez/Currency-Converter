@@ -25,6 +25,7 @@ import { CurrencyExchangeService } from './services/exchange-rates.service';
     HttpClientModule
     
     
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
